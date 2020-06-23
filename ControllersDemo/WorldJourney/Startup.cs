@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using WorldJourney.Models;
+using WorldJourney.Filters;
 
 namespace WorldJourney
 {
@@ -16,6 +17,7 @@ namespace WorldJourney
         {
             services.AddMvc();
             services.AddSingleton<IData, Data>();
+            services.AddScoped<LogActionFilterAttribute>();
         }
 
         public void Configure(IApplicationBuilder app)

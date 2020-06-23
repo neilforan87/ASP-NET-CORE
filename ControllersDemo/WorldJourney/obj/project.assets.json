@@ -12540,11 +12540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\Git\\Repos\\Allfiles\\Mod04\\Labfiles\\01_WorldJourney_begin\\WorldJourney\\WorldJourney.csproj",
+      "projectUniqueName": "C:\\Work\\Git\\Repos2\\ControllersDemo\\WorldJourney\\WorldJourney.csproj",
       "projectName": "WorldJourney",
-      "projectPath": "C:\\Work\\Git\\Repos\\Allfiles\\Mod04\\Labfiles\\01_WorldJourney_begin\\WorldJourney\\WorldJourney.csproj",
+      "projectPath": "C:\\Work\\Git\\Repos2\\ControllersDemo\\WorldJourney\\WorldJourney.csproj",
       "packagesPath": "C:\\Users\\neilf\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\Git\\Repos\\Allfiles\\Mod04\\Labfiles\\01_WorldJourney_begin\\WorldJourney\\obj\\",
+      "outputPath": "C:\\Work\\Git\\Repos2\\ControllersDemo\\WorldJourney\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
